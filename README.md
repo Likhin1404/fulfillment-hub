@@ -7,7 +7,7 @@ and catch stock, packing and pickup problems before they reach a customer.
 
 ```bash
 pip install -r requirements.txt
-streamlit run app.py
+python -m streamlit run app.py
 ```
 
 The sample database (about 260 orders, 52 products, 3 couriers, 2 warehouses) is created automatically on
